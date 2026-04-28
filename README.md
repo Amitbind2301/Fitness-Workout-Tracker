@@ -1,6 +1,8 @@
 # Fitness-Workout-Tracker
 🏋️ FitTrack Pro – Fitness & Workout Tracker
 
+LIVE LINK : https://fitness-tracker-codectechnologies.netlify.app/
+
 FitTrack Pro is a modern web-based fitness tracking application that helps users monitor workouts, track activities, analyze performance, and maintain a healthy lifestyle through an interactive dashboard.
 
 This project demonstrates frontend development, UI/UX design, local storage data handling, and real-time analytics visualization using JavaScript.
