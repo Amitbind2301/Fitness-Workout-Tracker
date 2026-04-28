@@ -79,7 +79,7 @@ FitTrack-Pro/
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/fittrack-pro.git
+git clone https://github.com/Amitbind2301/Fitness-Workout-Tracker.git
 2️⃣ Open Project
 
 Simply open:
